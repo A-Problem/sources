@@ -1,2 +1,2 @@
 # sources
-A collection of grey web documents used a sources
+A collection of grey web documents used as sources
